@@ -1,4 +1,4 @@
-# Ben Weber 2021-01-27
+# Ivy Weber 2021-01-27
 # Code to determine least-squares fit for observed data, assuming 1/C_eff has a linear trend
 
 import math as m

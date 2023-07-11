@@ -1,4 +1,4 @@
-# Ben Weber
+# Ivy Weber
 # Solve a test wave equation in 1D up to T = 0.5 to test stability of methods
 
 # Use the function 1 - cos(2 pi (x - t)) on periodic domain [0,1], which has a known

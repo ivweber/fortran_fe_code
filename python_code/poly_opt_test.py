@@ -1,8 +1,4 @@
-# Ben Weber, <completion date here>
-
-# <Add description of program here>
-
-# <Add outline of approach here>
+# Ivy Weber
 
 #Import required modules
 

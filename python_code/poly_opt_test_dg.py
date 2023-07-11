@@ -1,4 +1,4 @@
-# Ben Weber, 2019-2020
+# Ivy Weber, 2019-2020
 
 # Calculate maximum time-steps of DG-Lagrange method for different choices of nodal points and different values of beta
 

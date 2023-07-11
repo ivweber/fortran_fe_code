@@ -1,4 +1,4 @@
-# Ben Weber
+# Ivy Weber
 # Solve a test wave equation in 2D up to T = 0.5 to test stability of methods
 
 # Use a gaussian bell-shape within a certain radius as initial conditions, set

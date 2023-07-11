@@ -1,4 +1,4 @@
-# Ben Weber
+# Ivy Weber
 # Set up initial conditions for the 2D and 3D solver, then save to a .npy file
 
 # Use a gaussian bell-shape within a certain radius as initial conditions, set

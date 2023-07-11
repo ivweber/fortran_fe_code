@@ -1,4 +1,4 @@
-# Ben Weber, 2019-09-03
+# Ivy Weber, 2019-09-03
 
 # Module defining polynomial class, and useful functions and methods for it
 

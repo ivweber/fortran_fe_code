@@ -1,4 +1,4 @@
-# Ben Weber, <completion date here>
+# Ivy Weber, 2019
 
 # Module of classes and functions based on the polynomial module, with the
 # aim of producing the standard basis functions in 1D for Lagrangian FEM and

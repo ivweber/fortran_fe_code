@@ -1,4 +1,4 @@
-# Ben Weber
+# Ivy Weber
 
 # Solve a test wave equation in 1D up to T = 0.5 to test stability of methods
 
